@@ -1,0 +1,8 @@
+{
+	"deps": [
+		{
+			"url": "https://github.com/mgutz/ansi.git",
+			"store_path": "vendor/ansi"
+		}
+	]
+}
